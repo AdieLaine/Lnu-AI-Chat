@@ -37,6 +37,60 @@ Lnu-AI is an Artificial Intelligence system developed to serve as a bridge betwe
 
 ---
 
+# Lnu-AI Chat Feature Overview
+
+The `Chat` feature in Lnu-Ai creates a groundbreaking platform where users can engage in real-time conversations with an AI, powered by machine learning and natural language processing. This unique feature is meticulously designed to incorporate the Mi'kmaq language, thus paving the way for an immersive linguistic experience.
+
+<p align="center">
+  <img src="./images/chat2.png"width="600"/>
+</p>
+
+## Features
+
+- **Real-Time Conversations**: The Chat feature enables users to interact with the AI in real-time, creating an engaging and responsive conversation environment.
+
+- **Language Learning**: With each interaction, the AI uses Mi'kmaq phrases and words, providing users with the opportunity to learn and use the language in a conversational context.
+
+
+
+- **Customizable Experiences**: The AI can adjust its conversational style based on user preferences, allowing for a highly personalized chatting experience.
+
+---
+## Example Conversations
+
+Storytelling
+<p align="center">
+  <img src="./images/story_chat.png"width="700"/>
+</p>
+
+---
+Mi'kmaq Linguistics
+
+<p align="center">
+  <img src="./images/linguistics.png"width="700"/>
+</p>
+
+---
+Python Programming
+
+<p align="center">
+  <img src="./images/python_chat.png"width="700"/>
+</p>
+
+---
+Prompt Completion Pairing
+
+<p align="center">
+  <img src="./images/prompt_pair.png"width="700"/>
+</p>
+
+---
+<p align="center">
+  <img src="./images/word-lines.png"/>
+</p>
+
+---
+
 ## <span style="color: white;">Table of Contents</span>
 - [Project Statement](docs/projectstatement.md)
 
