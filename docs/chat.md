@@ -17,16 +17,39 @@ The `Chat` feature in Lnu-Ai creates a groundbreaking platform where users can e
 - **Customizable Experiences**: The AI can adjust its conversational style based on user preferences, allowing for a highly personalized chatting experience.
 
 ---
-### Example Conversations
-<p align="center">
-  <img src="../images/chat3.png"width="700"/>
-</p>
+## Example Conversations
 
+Storytelling
 <p align="center">
-  <img src="../images/chat1.png"width="700"/>
+  <img src="../images/story_chat.png"width="700"/>
 </p>
 
 ---
+Mi'kmaq Linguistics
+
+<p align="center">
+  <img src="../images/linguistics.png"width="700"/>
+</p>
+
+---
+Python Programming
+
+<p align="center">
+  <img src="../images/python_chat.png"width="700"/>
+</p>
+
+---
+Prompt Completion Pairing
+
+<p align="center">
+  <img src="../images/prompt_pair.png"width="700"/>
+</p>
+
+---
+<p align="center">
+  <img src="../images/word-lines.png"/>
+</p>
+
 ## User Guide
 
 Engaging with the Chat feature is as simple as:
