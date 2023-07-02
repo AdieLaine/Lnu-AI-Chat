@@ -14,7 +14,7 @@ Lnu-AI is an Artificial Intelligence system developed to serve as a bridge betwe
 
 ---
 
-**Lnu-AI Chat** is a conversational AI system that can be used to chat with an AI system that is trained on the Mi'kmaq language and aligned as an Indigenous AI aligned assistant. This system was pre-trained on a large dataset of written and audion translations of Mi'kmaq words and phrases.
+**Lnu-AI Chat** is a conversational AI system that can be used to chat with an AI system that is trained on the Mi'kmaq language and aligned as an Indigenous AI aligned assistant. This system was pre-trained on a large dataset of written and audio translations of Mi'kmaq words and phrases.
 
 **Lnu-AI Chat** has learned the nuances of the Mi'kmaq language structure, including its orthography and written form.
 
